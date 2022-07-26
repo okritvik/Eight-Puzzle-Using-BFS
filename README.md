@@ -31,6 +31,7 @@
 
     Step 4:
     The output is displayed on the console as well as in the files generated.
+    nodePath.txt has the solution. NodesInfo.txt has the generated node and its parent node indices. Nodes.txt has all the generated states.
     If the given puzzle is not solvable, then the nodePath will be empty and the output on the console will display the total number of nodes explored.
 
 ## Note:
